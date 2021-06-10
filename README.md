@@ -1,4 +1,4 @@
-- 👋 Hey mate, how are ya? I’m a brazilian coder (@echinen) 
+- 👋 Hey mate, how are ya? I’m a brazilian coder (@echinen) working in this area for around 7 years
 - 🌱 Recently I have moved to Australia as to improve my english skills and learn the Aussie life style
 - 👀 I’m interested in improving my skills as a software engineer. As a result, I will be able to use smart solutions + cutting edge technologies as to help people improving their life
 - 📫 How to reach me ---> linkedin.com/in/ericchinen/

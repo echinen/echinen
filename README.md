@@ -1,6 +1,5 @@
-- 👋 Hey mate, how are ya? I’m a brazilian coder (@echinen) working in this area for around 7 years
-- 🌱 Recently I have moved to Australia as to improve my english skills and learn the Aussie life style
-- 👀 I’m interested in improving my skills as a software engineer. As a result, I will be able to use smart solutions + cutting edge technologies as to help people improving their life
+- 👋 Hey there, how you doing? I’m a brazilian coder (@echinen) working in this area for around 7 years
+- 👀 I’m interested in improving my skills as a software engineer. As a result, I will be able to help companies creating "smart solutions" with "cutting edge technologies" in order to support "people/world problems"
 - 📫 How to reach me ---> linkedin.com/in/ericchinen/
 
 <!---

@@ -1,5 +1,5 @@
-- 👋 Hey there, how you doing? I’m a brazilian coder (@echinen) working in this area for around 7 years
-- 👀 I’m interested in improving my skills as a software engineer. As a result, I will be able to help companies creating "smart solutions" with "cutting edge technologies" in order to support "people/world problems"
+- 👋 Hey there, how you doing? I’m a brazilian coder (@echinen) working in this area for around 8 years
+- 👀 I’m interested in improving my skills as a software engineer. As a result, I will be able to help companies creating "smart solutions" with "cutting edge technologies" 
 - 📫 How to reach me ---> linkedin.com/in/ericchinen/
 
 <!---
